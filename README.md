@@ -20,6 +20,7 @@ This is a plugin for MCreator 2025.2 and newer, which lets the user create new p
 * GUI
 * Item*
 * Mob*
+* Particle*
 * Procedure
 * Recipe*
 * Structure*
