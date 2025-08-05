@@ -33,5 +33,6 @@ Mod elements that are marked with an asterisk require an external API. You can e
 * Block and Item: requires [Custom Item & Block API](https://modrinth.com/plugin/custom-item-api)
 * Enchantment: requires [Vanilla Custom Enchantments API](https://www.spigotmc.org/resources/vanilla-custom-enchanting-api.120342/)
 * Mob: requires [Mythic Mobs](https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/)
+* Particle: requires [Particle Native API](https://www.spigotmc.org/resources/particlenativeapi-1-7.76480/)
 * Recipe: requires [Recipes API](https://www.spigotmc.org/resources/recipesapi-enhanced-recipes-creation.119524/)
 * Structure: requires [Custom Structures](https://www.spigotmc.org/resources/custom-structures.38249/)
